@@ -1,0 +1,39 @@
+body{
+	
+}
+header{
+	background-color: #000;
+}
+.li{
+	
+	text-align: center;
+}
+.carousel-caption{
+	display: grid;
+	align-content: center;
+	height: 100%;
+	text-align: left;
+}
+.carousel-caption h2{
+	font-size: 60px;
+	position: relative;
+	left:100px;
+	font-weight: 300;
+}
+.carousel-caption li{
+	font-size: 10px;
+	position: relative;
+	left:100px;
+	
+}
+
+footer{
+	background-color: #323232;
+	text-transform: uppercase;
+	
+}
+
+footer p{
+	
+	
+}
